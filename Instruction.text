@@ -1,0 +1,9 @@
+
+All the smart contracts have been implemented. However, functionality related to frontend is missing here. 
+
+Prerequisite: 
+npm install -g truffle
+npm install -g truffle-hdwallet-provider
+
+MindApp.sol file includes all the logic required for investment strategy mentioned in the assigment. 
+
